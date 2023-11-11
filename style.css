@@ -357,10 +357,12 @@ main{
     margin: 0 auto;
     text-align: center;
 }
-.main-block-content-text > .main-text-h2, .main-text-h3 {
+.main-block-content-text > .main-text-h2{
     text-align: center;
 }
-
+.main-block-content-text > .main-text-h3{
+    text-align: center;
+}
 .main-block-content__9{
     width: 604px;
     height: 328px;
